@@ -74,7 +74,7 @@ const UserPage = () => {
   return (
     <div>
       <h1 className="flex justify-center text-center text-4xl bg-gray-800 text-white py-4">
-        Notes App
+        Agakayi
       </h1>
       <div className="flex justify-center mt-4 p-4">
         <InputSpace onAdd={handleAdd} />
