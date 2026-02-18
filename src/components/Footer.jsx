@@ -7,7 +7,7 @@ const Footer = () => {
       <footer className="bg-gray-800 text-white py-4 mt-8">
         <div className="container mx-auto flex justify-between items-center">
           <div className="text-sm">
-            &copy; {new Date().getFullYear()} Notes App. All rights reserved.
+            &copy; {new Date().getFullYear()} Agakayi. All rights reserved.
           </div>
           <div className="flex space-x-4">
             <a
