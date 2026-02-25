@@ -44,7 +44,7 @@ const Login = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-100 to-blue-300">
       <div className="w-full max-w-md bg-white rounded-xl shadow-lg p-8">
-        <h1 className="text-4xl text-blue-600 font-bold mb-6 text-center">Notes App</h1>
+        <h1 className="text-4xl text-blue-600 font-bold mb-6 text-center">Agakayi</h1>
         <form onSubmit={handleLogin} className="space-y-4">
           <Input
             label="Email"
