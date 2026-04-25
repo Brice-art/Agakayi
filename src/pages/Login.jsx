@@ -61,7 +61,7 @@ const Login = () => {
             </svg>
           </div>
           <h1 className="text-4xl font-bold text-gray-800">Welcome Back</h1>
-          <p className="text-gray-600 mt-2">Sign in to continue to Notes App</p>
+          <p className="text-gray-600 mt-2">Sign in to continue to Agakayi</p>
         </div>
 
         <div className="bg-white rounded-2xl shadow-xl p-8">
