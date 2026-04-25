@@ -61,7 +61,7 @@ const SignUp = () => {
             </svg>
           </div>
           <h1 className="text-4xl font-bold text-gray-800">Create Account</h1>
-          <p className="text-gray-600 mt-2">Join Notes App today</p>
+          <p className="text-gray-600 mt-2">Join Agakayi today</p>
         </div>
 
         <div className="bg-white rounded-2xl shadow-xl p-8">
